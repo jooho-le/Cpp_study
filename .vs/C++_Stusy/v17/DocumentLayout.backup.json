@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thinkbook\\Desktop\\C\u002B\u002B_Stusy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F90B7E-5079-4979-8211-415324C48095}|C\u002B\u002B_Stusy.vcxproj|C:\\Users\\thinkbook\\Desktop\\C\u002B\u002B_Stusy\\print_ACSII.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7F90B7E-5079-4979-8211-415324C48095}|C\u002B\u002B_Stusy.vcxproj|solutionrelative:print_ACSII.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F90B7E-5079-4979-8211-415324C48095}|C\u002B\u002B_Stusy.vcxproj|C:\\Users\\thinkbook\\Desktop\\C\u002B\u002B_Stusy\\memo.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F7F90B7E-5079-4979-8211-415324C48095}|C\u002B\u002B_Stusy.vcxproj|solutionrelative:memo.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F90B7E-5079-4979-8211-415324C48095}|C\u002B\u002B_Stusy.vcxproj|C:\\Users\\thinkbook\\Desktop\\C\u002B\u002B_Stusy\\bool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7F90B7E-5079-4979-8211-415324C48095}|C\u002B\u002B_Stusy.vcxproj|solutionrelative:bool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "print_ACSII.cpp",
+              "DocumentMoniker": "C:\\Users\\thinkbook\\Desktop\\C\u002B\u002B_Stusy\\print_ACSII.cpp",
+              "RelativeDocumentMoniker": "print_ACSII.cpp",
+              "ToolTip": "C:\\Users\\thinkbook\\Desktop\\C\u002B\u002B_Stusy\\print_ACSII.cpp",
+              "RelativeToolTip": "print_ACSII.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-06T19:31:29.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bool.cpp",
+              "DocumentMoniker": "C:\\Users\\thinkbook\\Desktop\\C\u002B\u002B_Stusy\\bool.cpp",
+              "RelativeDocumentMoniker": "bool.cpp",
+              "ToolTip": "C:\\Users\\thinkbook\\Desktop\\C\u002B\u002B_Stusy\\bool.cpp*",
+              "RelativeToolTip": "bool.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-06T19:25:35.395Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "50f4de68-8c22-4919-a34a-c062a42b4b94",
+        "Display": 0,
+        "X": 79,
+        "Y": 340,
+        "Width": 796,
+        "Height": 701,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "memo.txt",
+              "DocumentMoniker": "C:\\Users\\thinkbook\\Desktop\\C\u002B\u002B_Stusy\\memo.txt",
+              "RelativeDocumentMoniker": "memo.txt",
+              "ToolTip": "C:\\Users\\thinkbook\\Desktop\\C\u002B\u002B_Stusy\\memo.txt*",
+              "RelativeToolTip": "memo.txt*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-06T19:04:59.088Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
