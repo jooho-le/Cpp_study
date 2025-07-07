@@ -27,6 +27,18 @@
     <ClCompile Include="print_ACSII.cpp">
       <Filter>소스 파일\ch2</Filter>
     </ClCompile>
+    <ClCompile Include="UNICODE.cpp">
+      <Filter>소스 파일\ch2</Filter>
+    </ClCompile>
+    <ClCompile Include="local_variable\local_variable.cpp">
+      <Filter>소스 파일\ch2</Filter>
+    </ClCompile>
+    <ClCompile Include="floating_point.cpp">
+      <Filter>소스 파일\ch2</Filter>
+    </ClCompile>
+    <ClCompile Include="precision_floating_potin.cpp">
+      <Filter>소스 파일\ch2</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="memo.txt">

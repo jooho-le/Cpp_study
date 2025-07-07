@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\thinkbook\\Desktop\\C\u002B\u002B_Stusy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7F90B7E-5079-4979-8211-415324C48095}|C\u002B\u002B_Stusy.vcxproj|C:\\Users\\thinkbook\\Desktop\\C\u002B\u002B_Stusy\\print_ACSII.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F7F90B7E-5079-4979-8211-415324C48095}|C\u002B\u002B_Stusy.vcxproj|solutionrelative:print_ACSII.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F7F90B7E-5079-4979-8211-415324C48095}|C\u002B\u002B_Stusy.vcxproj|C:\\Users\\thinkbook\\Desktop\\C\u002B\u002B_Stusy\\local_variable\\local_variable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7F90B7E-5079-4979-8211-415324C48095}|C\u002B\u002B_Stusy.vcxproj|solutionrelative:local_variable\\local_variable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F90B7E-5079-4979-8211-415324C48095}|C\u002B\u002B_Stusy.vcxproj|C:\\Users\\thinkbook\\Desktop\\C\u002B\u002B_Stusy\\precision_floating_potin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7F90B7E-5079-4979-8211-415324C48095}|C\u002B\u002B_Stusy.vcxproj|solutionrelative:precision_floating_potin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F7F90B7E-5079-4979-8211-415324C48095}|C\u002B\u002B_Stusy.vcxproj|C:\\Users\\thinkbook\\Desktop\\C\u002B\u002B_Stusy\\memo.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{F7F90B7E-5079-4979-8211-415324C48095}|C\u002B\u002B_Stusy.vcxproj|solutionrelative:memo.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F90B7E-5079-4979-8211-415324C48095}|C\u002B\u002B_Stusy.vcxproj|C:\\Users\\thinkbook\\Desktop\\C\u002B\u002B_Stusy\\floating_point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7F90B7E-5079-4979-8211-415324C48095}|C\u002B\u002B_Stusy.vcxproj|solutionrelative:floating_point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F90B7E-5079-4979-8211-415324C48095}|C\u002B\u002B_Stusy.vcxproj|C:\\Users\\thinkbook\\Desktop\\C\u002B\u002B_Stusy\\UNICODE.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7F90B7E-5079-4979-8211-415324C48095}|C\u002B\u002B_Stusy.vcxproj|solutionrelative:UNICODE.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F90B7E-5079-4979-8211-415324C48095}|C\u002B\u002B_Stusy.vcxproj|C:\\Users\\thinkbook\\Desktop\\C\u002B\u002B_Stusy\\print_ACSII.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7F90B7E-5079-4979-8211-415324C48095}|C\u002B\u002B_Stusy.vcxproj|solutionrelative:print_ACSII.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F7F90B7E-5079-4979-8211-415324C48095}|C\u002B\u002B_Stusy.vcxproj|C:\\Users\\thinkbook\\Desktop\\C\u002B\u002B_Stusy\\bool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -31,24 +47,76 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "local_variable.cpp",
+              "DocumentMoniker": "C:\\Users\\thinkbook\\Desktop\\C\u002B\u002B_Stusy\\local_variable\\local_variable.cpp",
+              "RelativeDocumentMoniker": "local_variable\\local_variable.cpp",
+              "ToolTip": "C:\\Users\\thinkbook\\Desktop\\C\u002B\u002B_Stusy\\local_variable\\local_variable.cpp",
+              "RelativeToolTip": "local_variable\\local_variable.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-07T18:59:54.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "precision_floating_potin.cpp",
+              "DocumentMoniker": "C:\\Users\\thinkbook\\Desktop\\C\u002B\u002B_Stusy\\precision_floating_potin.cpp",
+              "RelativeDocumentMoniker": "precision_floating_potin.cpp",
+              "ToolTip": "C:\\Users\\thinkbook\\Desktop\\C\u002B\u002B_Stusy\\precision_floating_potin.cpp",
+              "RelativeToolTip": "precision_floating_potin.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-07T18:50:07.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "floating_point.cpp",
+              "DocumentMoniker": "C:\\Users\\thinkbook\\Desktop\\C\u002B\u002B_Stusy\\floating_point.cpp",
+              "RelativeDocumentMoniker": "floating_point.cpp",
+              "ToolTip": "C:\\Users\\thinkbook\\Desktop\\C\u002B\u002B_Stusy\\floating_point.cpp",
+              "RelativeToolTip": "floating_point.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-07T18:46:48.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UNICODE.cpp",
+              "DocumentMoniker": "C:\\Users\\thinkbook\\Desktop\\C\u002B\u002B_Stusy\\UNICODE.cpp",
+              "RelativeDocumentMoniker": "UNICODE.cpp",
+              "ToolTip": "C:\\Users\\thinkbook\\Desktop\\C\u002B\u002B_Stusy\\UNICODE.cpp",
+              "RelativeToolTip": "UNICODE.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-07T18:39:15.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "print_ACSII.cpp",
               "DocumentMoniker": "C:\\Users\\thinkbook\\Desktop\\C\u002B\u002B_Stusy\\print_ACSII.cpp",
               "RelativeDocumentMoniker": "print_ACSII.cpp",
               "ToolTip": "C:\\Users\\thinkbook\\Desktop\\C\u002B\u002B_Stusy\\print_ACSII.cpp",
               "RelativeToolTip": "print_ACSII.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-06T19:31:29.859Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "bool.cpp",
               "DocumentMoniker": "C:\\Users\\thinkbook\\Desktop\\C\u002B\u002B_Stusy\\bool.cpp",
               "RelativeDocumentMoniker": "bool.cpp",
-              "ToolTip": "C:\\Users\\thinkbook\\Desktop\\C\u002B\u002B_Stusy\\bool.cpp*",
-              "RelativeToolTip": "bool.cpp*",
+              "ToolTip": "C:\\Users\\thinkbook\\Desktop\\C\u002B\u002B_Stusy\\bool.cpp",
+              "RelativeToolTip": "bool.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-06T19:25:35.395Z",
@@ -62,12 +130,12 @@
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "FloatingWindowState": {
-        "Id": "50f4de68-8c22-4919-a34a-c062a42b4b94",
-        "Display": 0,
-        "X": 79,
-        "Y": 340,
-        "Width": 796,
-        "Height": 701,
+        "Id": "e7b19712-e96c-49e8-867b-584a2bac47d3",
+        "Display": 1,
+        "X": 378,
+        "Y": 145,
+        "Width": 1126,
+        "Height": 665,
         "WindowState": 0
       },
       "DocumentGroups": [
@@ -77,15 +145,15 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "memo.txt",
               "DocumentMoniker": "C:\\Users\\thinkbook\\Desktop\\C\u002B\u002B_Stusy\\memo.txt",
               "RelativeDocumentMoniker": "memo.txt",
               "ToolTip": "C:\\Users\\thinkbook\\Desktop\\C\u002B\u002B_Stusy\\memo.txt*",
               "RelativeToolTip": "memo.txt*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-07-06T19:04:59.088Z",
+              "WhenOpened": "2025-07-06T19:38:59.182Z",
               "EditorCaption": ""
             }
           ]

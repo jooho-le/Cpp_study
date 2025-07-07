@@ -124,8 +124,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="bool.cpp" />
+    <ClCompile Include="floating_point.cpp" />
     <ClCompile Include="input_output.cpp" />
+    <ClCompile Include="local_variable\local_variable.cpp" />
+    <ClCompile Include="precision_floating_potin.cpp" />
     <ClCompile Include="print_ACSII.cpp" />
+    <ClCompile Include="UNICODE.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="memo.txt" />
